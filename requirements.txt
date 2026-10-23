@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pymysql
+alembic
+pydantic[email]>=2.0
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+python-multipart
+aiofiles
+slowapi
+python-dotenv
+pytest
+httpx
